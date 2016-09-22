@@ -1,0 +1,1 @@
+"use strict";var express=require("express"),route=express.Router(),accountCtrl=require("../control/accountController.js");route.get("/register",accountCtrl.getregister),route.post("/register",accountCtrl.postregister),module.exports=route;

@@ -1,0 +1,1 @@
+"use strict";module.exports=function(e,i){i.userinfo=e.define("userinfo",{uid:{type:"serial",key:!0},uname:String,upwd:String,uqq:String,uemail:String}),i.videoinfo=e.define("videoinfo",{vid:{type:"serial",key:!0},vtitle:String,vsortno:Number,vsummary:String,vremark:String,vstatus:Number})};

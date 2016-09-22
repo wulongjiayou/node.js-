@@ -1,0 +1,8 @@
+{
+  "control/accountController.js": "control/accountController-0314f3039a.js",
+  "control/test.js": "control/test-c81a576a31.js",
+  "model/initModels.js": "model/initModels-005046a652.js",
+  "routes/accountRoute.js": "routes/accountRoute-af03368656.js",
+  "routes/adminRoute.js": "routes/adminRoute-39019e119d.js",
+  "static/js/index.js": "static/js/index-c81a576a31.js"
+}
